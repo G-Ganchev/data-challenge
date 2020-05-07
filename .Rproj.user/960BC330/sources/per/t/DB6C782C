@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588861598866.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2416205417",
+    "id" : "DB6C782C",
+    "lastKnownWriteTime" : 1588862177,
+    "last_content_update" : 1588862177567,
+    "path" : "C:/Users/GeorgiGanchev/OneDrive - Amplify Analytix/NewProjects/internal/data-challange/model.R",
+    "project_path" : "model.R",
+    "properties" : {
+        "cursorPosition" : "23,23",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
